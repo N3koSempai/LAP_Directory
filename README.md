@@ -18,6 +18,6 @@ para agregar tu libreria a el directorio sigue los siguientes pasos (en desarrol
 
 6. publica tu release
 
-7. toma la url de tu repositorio ejemplo:                                                                                       ``` https://github.com/N3koSempai/LAP_Directory```  , el nombre del repositorio ejemplo: ```LAP_Directory``` y agrega estos como clave y valor a el archivo json de este repositorio.
+7. toma la url de tu repositorio ejemplo:                                                                                       ``` https://github.com/N3koSempai/LAP_Directory```  , el nombre del repositorio ejemplo: ```LAP_Directory``` y agrega estos como clave y valor (donde el nombre es la clave y la direccion url el valor) a el archivo json de este repositorio.
 
 8. Crea un pull request a este repositorio con los cambios efectuados
