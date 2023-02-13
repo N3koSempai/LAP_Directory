@@ -12,9 +12,9 @@ para agregar tu libreria a el directorio sigue los siguientes pasos (en desarrol
 
 3. llama a ese zip exactamente igual que el nombre de tu repositorio. ejemplo: github.com/N3koSempai/LAP_Directory , el archivo zip seria LAP_Directory.zip
 
-4. Crea un release en github y agrega como archivo el zip anteriormente creado.
+4. Crea un release en tu repositorio de github y agrega como archivo el zip anteriormente creado.
 
-5. Recuerda agregar en las etiquetas la version de este lanzamiento con el siguiente formato estandar:    ```   v.0.0.1   ```     e incrementa segun la version.
+5. Recuerda agregar en las etiquetas la version de este lanzamiento con el siguiente formato estandar:    ``` v0.0.1 ```     e incrementa segun la version.
 
 6. publica tu release
 
